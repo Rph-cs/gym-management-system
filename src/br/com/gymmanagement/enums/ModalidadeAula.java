@@ -1,4 +1,4 @@
 package br.com.gymmanagement.enums;
 
-public class ModalidadeAula {
+public enum ModalidadeAula {
 }
