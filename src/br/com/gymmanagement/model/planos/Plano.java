@@ -5,4 +5,5 @@ public abstract class Plano {
     private double precoMensal;
     private int limiteAulasMes;
     
+    public abstract String getDescricao();
 }
